@@ -1,2 +1,4 @@
-# Our first Node.js project, featuring Node.js routes
+# Our first Node.js project. 
+
+This projcet features Node.js routes
 
