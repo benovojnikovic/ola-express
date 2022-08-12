@@ -1,0 +1,22 @@
+{
+  "name": "ola-express",
+  "version": "1.0.0",
+  "description": "This projcet features Node.js routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benovojnikovic/ola-express.git"
+  },
+  "author": "Beno Vojnikovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benovojnikovic/ola-express/issues"
+  },
+  "homepage": "https://github.com/benovojnikovic/ola-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
